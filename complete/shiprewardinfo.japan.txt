@@ -1,0 +1,395 @@
+1	240 Gold
+2	240 Gold
+3	220 Exploration Experience
+4	Bandage
+5	HP 30 Potion
+6	MP 10 Potion
+7	Stamina 30 Potion
+8	Phoenix Feather
+9	MP 10 Potion
+10	720 Gold
+11	350 Exploration Experience
+12	Cheap Leather
+13	Bloody Herb
+14	Mana Herb
+15	Base Herb
+16	Sunlight Herb
+17	Mana Herb
+18	1530 Gold
+19	460 Exploration Experience
+20	Stamina 30 Potion
+21	10 Bandages
+22	Thin Thread
+23	HP 30 Potion
+24	MP 30 Potion
+25	Thin Thread
+26	2780 Gold
+27	580 Exploration Experience
+28	HP 50 Potion
+29	Mana Herb
+30	Thick Thread
+31	Mandrake Herb
+32	Fine Silk
+33	Thick Thread
+34	3640 Gold
+35	690 Exploration Experience
+36	Stamina 50 Potion
+37	Finest Silk
+38	Fine Leather
+39	Antidote Herb
+40	MP 50 Potion
+41	Fine Leather
+42	4460 Gold
+43	820 Exploration Experience
+44	Bloody Herb
+45	Ancient Taming Cane
+46	Fox Teeth-Patterned Ankle Boots
+47	Iron ore
+48	Ancient Taming Cane
+49	Iron Plate
+50	5420 Gold
+51	950 Exploration Experience
+52	Iron Ingot
+53	Mana Herb
+54	Golden Herb
+55	HP 50 Potion
+56	Round Shield
+57	Golden Herb
+58	6270 Gold
+59	1080 Exploration Experience
+60	MP 50 Potion
+61	Owl Figurine
+62	Strong Bastard Sword
+63	Braid
+64	Copper Ore
+65	Strong Bastard Sword
+66	7350 Gold
+67	1210 Exploration Experience
+68	HP 50 Potion
+69	Finest Silk
+70	Likeability Potion
+71	Poison Herb
+72	Healer Counter Gauntlet
+73	Likeability Potion
+74	8140 Gold
+75	1340 Exploration Experience
+76	Antidote Herb
+77	Silver Ore
+78	Finest Leather
+79	Copper Plate
+80	MP 50 Potion
+81	Finest Leather
+82	9030 Gold
+83	1460 Exploration Experience
+84	Mana Herb
+85	Tipping Suit
+86	Finest Fabric
+87	Stamina 100 Potion
+88	Gold Ore
+89	Finest Fabric
+90	9980 Gold
+91	1590 Exploration Experience
+92	HP 100 Potion
+93	Tikka Wood Taming Cane
+94	Golden Herb
+95	Tough String
+96	Tikka Wood Taming Cane
+97	Claymore
+98	240 Gold
+99	240 Gold
+100	220 Exploration Experience
+101	5 Bandages
+102	3 HP 30 Potion
+103	3 MP 10 Potion
+104	3 Stamina 30 Potion
+105	3 Phoenix Feather
+106	3 MP 10 Potion
+107	720 Gold
+108	350 Exploration Experience
+109	5 Cheap Leather
+110	3 Bloody Herb
+111	3 Mana Herb
+112	5 Base Herb
+113	3 Sunlight Herb
+114	3 Mana Herb
+115	1530 Gold
+116	460 Exploration Experience
+117	10 Stamina 30 Potion
+118	5 Bandage 10
+119	5 Thin Thread
+120	10 HP 30 Potion
+121	10 MP 30 Potion
+122	5 Thin Thread
+123	2780 Gold
+124	580 Exploration Experience
+125	5 HP 50 Potion
+126	5 Mana Herb
+127	5 Thick Thread
+128	5 Mandrake Herb
+129	2 Fine Silk
+130	5 Thick Thread
+131	3640 Gold
+132	690 Exploration Experience
+133	10 Stamina 50 Potion
+134	2 Finest Silk
+135	1 Fine Leather
+136	5 Antidote Herb
+137	5 MP 50 Potion
+138	1 Fine Leather
+139	4460 Gold
+140	820 Exploration Experience
+141	10 Bloody Herb
+142	1 Ancient Taming Cane
+143	Fox Teeth-Patterned Ankle Boots
+144	10 Iron Ore
+145	1 Ancient Taming Cane
+146	1 Iron Plate
+147	5420 Gold
+148	950 Exploration Experience
+149	10 Iron Ingot
+150	10 Mana Herb
+151	5 Golden Herb
+152	5 HP 50 Potion
+153	1 Round Shield
+154	5 Golden Herb
+155	6270 Gold
+156	1080 Exploration Experience
+157	5 MP 50 Potion
+158	1 Owl Figurine
+159	1 Strong Bastard SWord
+160	5 Braid
+161	10 Copper Ore
+162	1 Strong Bastard Sword
+163	7350 Gold
+164	1210 Exploration Experience
+165	10 HP 50 Potion
+166	3 Finest Silk
+167	1 Likeability Potion
+168	5 Poison Herb
+169	1 Healer Counter Gauntlet
+170	1 Likeability Potion
+171	8140 Gold
+172	1340 Exploration Experience
+173	10 Antidote Herb
+174	5 Silver Ore
+175	1 Finest Leather
+176	3 Copper Ore
+177	10 MP 50 Potion
+178	1 Finest Leather
+179	9030 Gold
+180	1460 Exploration Experience
+181	10 Mana Herb
+182	1 Tipping Suit
+183	2 Finest Fabric
+184	10 Stamina 100 Potion
+185	5 Gold Ore
+186	2 Finest Fabric
+187	9980 Gold
+188	1590 Exploration Experience
+189	10 HP 100 Potion
+190	1 Tikka Wood Taming Cane
+191	10 Golden Herb
+192	3 Tough String
+193	1 Tikka Wood Taming Cane
+194	1 Claymore
+195	460 Gold
+196	410 Exploration Experience
+197	1 Small Hot-Air Balloon Kit
+198	5 MP 10 Potion
+199	10 Bandage
+200	1 Small Hot-Air Balloon Kit
+201	30 Ballista Bolt
+202	5 Stamina 30 Potion
+203	1400 Gold
+204	680 Exploration Experience
+205	10 Ballista Bolt
+206	1 Burst Soldier Enchant Scroll
+207	10 Handmade Bandage
+208	5 Thin Thread
+209	5 Sunlight Herb
+210	10 Handmade Bandage
+211	3000 Gold
+212	890 Exploration Experience
+213	1 Large Hot-Air Balloon Kit
+214	10 Base Herb
+215	10 Bloody Herb
+216	5 Thick Thread
+217	30 Handmade Ballista Bolt
+218	1 Mana Magician Enchant Scroll
+219	5480 Gold
+220	1110 Exploration Experience
+221	1 Wyvern Claw
+222	10 Stamina 50 Potion
+223	1 Snake Gauntlet
+224	10 Iron Ore
+225	1 Large Hot-Air Balloon Kit
+226	2 Flint
+227	7170 Gold
+228	1310 Exploration Experience
+229	10 Handmade Ballista Bolt
+230	1 Fine Silk
+231	1 Ancient Taming Cane
+232	10 Iron Ore Fragment
+233	30 Fine Handmade Ballista Bolt
+234	1 Poison Archer Enchant Scroll
+235	8790 Gold
+236	1560 Exploration Experience
+237	2 Wyvern Claw
+238	10 Iron Ore
+239	10 Fine Handmade Bandage
+240	10 Copper Ore Fragment
+241	1 Finest Silk
+242	1 Likeability Potion
+243	10690 Gold
+244	1810 Exploration Experience
+245	3 Wyvern Claw
+246	10 HP 50 Potion
+247	1 Giant Bird Leg Boots
+248	10 Mandrake Herb
+249	10 Silver Ore Fragment
+250	10 MP 30 Potion
+251	12360 Gold
+252	2060 Exploration Experience
+253	10 Fine Handmade Ballista Bolt
+254	5 Flint
+255	1 Tikka Taming Cane
+256	1 Fine Leather
+257	1 Mana Witch Enchant Scroll
+258	10 Gold Ore Fragment
+259	14500 Gold
+260	2310 Exploration Experience
+261	4 Wyvern Claw
+262	10 Mana Herb
+263	1 Ring Bow
+264	10 MP 50 Potion
+265	30 Fine Handmade Ballista Bolt
+266	1 Wood Board
+267	16050 Gold
+268	2560 Exploration Experience
+269	5 Wyvern Claw
+270	1 Fine Fabric
+271	1 Poison Hunter Enchant Scroll
+272	10 HP 100 Potoin
+273	10 Finest Handmade Bandage
+274	1 Finest Fabric
+275	17810 Gold
+276	2800 Exploration Experience
+277	10 Finest Handmade Ballista Bolt
+278	10 Poison Herb
+279	1 Lightning Warrior's Helmet
+280	10 Golden Herb
+281	1 Burst Warrior Enchant Scroll
+282	1 Finest Leather
+283	Rafting Rewards
+284	Hot-Air Balloon Rewards
+285	Rafting Combat Rewards
+286	440 Exploration Experience
+287	700 Exploration Experience
+288	920 Exploration Experience
+289	1160 Exploration Experience
+290	1380 Exploration Experience
+291	1640 Exploration Experience
+292	1900 Exploration Experience
+293	2160 Exploration Experience
+294	2420 Exploration Experience
+295	2680 Exploration Experience
+296	2920 Exploration Experience
+297	3180 Exploration Experience
+298	1 Glowing Enchant Scroll
+299	1 Rainbow Enchant Scroll
+300	Hot-Air Balloon Rewards
+301	1 Mix Enchant Scroll
+302	460 Gold
+303	700 Exploration Experience
+304	1 Small Hot-Air Balloon Kit
+305	5 MP 10 Potion
+306	10 Bandage
+307	1 Small Hot-Air Balloon Kit
+308	30 Ballista Bolt
+309	5 Stamina 30 Potion
+310	1400 Gold
+311	1000 Exploration Experience
+312	10 Ballista Bolt
+313	1 Burst Soldier Enchant Scroll
+314	10 Handmade Bandage
+315	5 Thin Thread
+316	5 Sunlight Herb
+317	10 Handmade bandage
+318	3000 Gold
+319	1500 Exploration Experience
+320	1 Large Hot-Air Balloon Kit
+321	10 Base Herb
+322	10 Bloody Herb
+323	5 Thick Thread
+324	30 Handmade Ballista Bolt
+325	1 Mana Magician Enchant Scroll
+326	5480 Gold
+327	1750 Exploration Experience
+328	1 Wyvern Claw
+329	10 Stamina 50 Potion
+330	1 Snake Gauntlet
+331	10 Iron Ore
+332	1 Large Hot-Air Balloon Kit
+333	2 Flint
+334	7170 Gold
+335	2010 Exploration Experience
+336	10 Handmade Ballista Bolt
+337	1 Fine Silk
+338	1 Ancient Taming Cane
+339	10 Iron Ore Fragment
+340	30 Fine Handmade Ballista Bolt
+341	1 Poison Archer Enchant Scroll
+342	8790 Gold
+343	2360 Exploration Experience
+344	2 Wyvern Claw
+345	10 Iron Ore Fragment
+346	10 Fine Handmade Bandage
+347	10 Copper Ore Fragment
+348	1 Finest Silk
+349	1 Likeability Potion
+350	10690 Gold
+351	2610 Exploration Experience
+352	3 Wyvern Claw
+353	10 HP 50 Potion
+354	1 Giant Bird Leg Boots
+355	10 Mandrake Herb
+356	10 Silver Ore Fragment
+357	10 MP 30 Potion
+358	12360 Gold
+359	2900 Exploration Experience
+360	10 Fine Handmade Ballista Bolt
+361	5 Flint
+362	1 Tikka Wood Taming Cane
+363	1 Fine Leather
+364	1 Mana Witch Enchant Scroll
+365	10 Gold Ore Fragment
+366	14500 Gold
+367	3110 Exploration Experience
+368	4 Wyvern Claw
+369	10 Mana Herb
+370	1 Ring bow
+371	10 MP 50 Potion
+372	30 Finest Handmade Ballista Bolt
+373	1 Wood Board
+374	16050 Gold
+375	3760 Exploration Experience
+376	5 Wyvern Claw
+377	1 Fine Fabric
+378	1 Poison Hunter Enchant Scroll
+379	10 HP 100 Potion
+380	10 Finest Handmade Bandage
+381	1 Finest Fabric
+382	17810 Gold
+383	4200 Exploration Experience
+384	10 Finest Handmade Ballista Bolt
+385	10 Poison Herb
+386	1 Lightning Warrior's Helmet
+387	1 Thames Plate Boots
+388	Hebona Shoes
+389	10 Golden Herb
+390	1 Burst Warrior Enchant Scroll
+391	1 Finest Leather
+392	1 Viscount Enchant Scroll
+393	1 Hawk Enchant Scroll
+394	1 Arbalest
+395	1 Arbalest
