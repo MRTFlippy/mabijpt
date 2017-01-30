@@ -1,0 +1,482 @@
+1	Mixed Fruit
+2	Mayonnaise
+3	Fruit Salad
+4	Potato Salad
+5	Egg Salad
+6	Potato & Egg Salad
+7	Strawberry Milk
+8	Cheese Bread
+9	Boiled Potato
+10	Hard-Boiled Egg
+11	Fried Mushroom
+12	Fried Onion
+13	Fried Vegetables
+14	Shrimp Fried Rice
+15	Rice
+16	Mushroom Soup
+17	Onion Soup
+18	Vegetable Soup
+19	Shrimp Tempura Udon
+20	French Fries
+21	Fried Chicken
+22	Roasted Bacon
+23	Fried Egg
+24	Baked Potato
+25	Fried Chicken Wing
+26	Beef Steak
+27	Toast
+28	Milk Bread
+29	Sliced Bread
+30	Garlic Bread
+31	Flour Dough
+32	Fry Batter
+33	Roasted Brifne Carp
+34	Broiled Brifne Carp
+35	Taitinn Carp Stew
+36	Fish and Chips
+37	Orange Juice
+38	Lemon Juice
+39	Apple Juice
+40	Chocolate
+41	Chocolate Milk
+42	Rare Cheesecake
+43	Curry Bread
+44	Curry Paste
+45	Croque Monsieur
+46	Butter Biscuit
+47	Chocolate Chip Cookies
+48	Cheese Gratin
+49	Gateau Au Chocolat
+50	Brownie
+51	Roasted Chicken
+52	Wheat Flour
+53	T-Bone Steak
+54	Taitinn Carp Brochette
+55	Curry and Rice
+56	Steamed Trout
+57	Coconut
+58	Cheese Fondue
+59	Spicy Fish Stew
+60	Bouillabaisse
+61	Brifne Rocks
+62	Screwdriver
+63	Leighean Sling
+64	BnR
+65	Kiss on the Lips
+66	Red Sunrise
+67	Orange Juice (Part-Time Job)
+68	Lemon Juice (Part-Time Job)
+69	Apple Juice (Part-Time Job)
+70	Croque Monsieur (Part-Time Job)
+71	Butter Biscuit (Part-Time Job)
+72	Brownie (Part-Time Job)
+73	Roasted Chicken (Part-Time Job)
+74	Spicy Fish Stew (Part-Time Job)
+75	Strawberry
+76	Apple
+77	Berry
+78	Egg
+79	Olive Oil
+80	Assorted Fruits
+81	Mayonnaise
+82	Boiled Potato
+83	Onion
+84	Hard-Boiled Egg
+85	Mayonnaise
+86	Hard-Boiled Egg
+87	Boiled Potato
+88	Mayonnaise
+89	Strawberry
+90	Milk
+91	Bread
+92	Slice of Cheese
+93	Potato
+94	Water
+95	Egg
+96	Water
+97	Mushroom
+98	Garlic
+99	Onion
+100	Garlic
+101	Cabbage
+102	Carrot
+103	Onion
+104	Steamed Rice
+105	Shrimp
+106	Rice
+107	Water
+108	Fried Mushroom
+109	Whipped Cream
+110	Fried Onion
+111	Whipped Cream
+112	Fried Vegetables
+113	Whipped Cream
+114	Shrimp
+115	Fry Batter
+116	Potato
+117	Fry Batter
+118	Chicken Wing
+119	Fry Batter
+120	Bacon
+121	Egg
+122	Potato
+123	Chicken Wing
+124	Olive Oil
+125	Beef
+126	Garlic
+127	Sliced Bread
+128	Butter
+129	Flour Dough
+130	Butter
+131	Milk
+132	Flour Dough
+133	Butter
+134	Bread
+135	Garlic
+136	Wheat Flour
+137	Yeast
+138	Water
+139	Tempura Plate
+140	Egg
+141	Water
+142	Brifne Carp
+143	Olive Oil
+144	Salt
+145	Brifne Carp
+146	Salt
+147	Water
+148	Taitinn Carp Brochette
+149	Garlic
+150	Potato
+151	Taitinn Carp Brochette
+152	Fry Batter
+153	Potato
+154	Orange
+155	Berry
+156	Sugar
+157	Lemon
+158	Berry
+159	Sugar
+160	Apple
+161	Berry
+162	Sugar
+163	Chocolate Ingredient
+164	Whipped Cream
+165	Sugar
+166	Chocolate
+167	Milk
+168	Sugar
+169	Big Lump of Cheese
+170	Whipped Cream
+171	Butter Biscuit
+172	Bread
+173	Slice of Meat
+174	Curry Powder
+175	Potato
+176	Slice of Meat
+177	Curry Powder
+178	Sliced Bread
+179	Slice of Meat
+180	Slice of Cheese
+181	Wheat Flour
+182	Butter
+183	Sugar
+184	Wheat Flour
+185	Butter
+186	Chocolate Ingredient
+187	Large Meat
+188	Cheese Bread
+189	Egg
+190	Wheat Flour
+191	Chocolate
+192	Egg
+193	Wheat Flour
+194	Chocolate
+195	Yeast
+196	Chicken Wing
+197	Thyme
+198	Salt
+199	Barley Flour
+200	Water
+201	Yeast
+202	Large Meat
+203	Thyme
+204	Salt
+205	Taitinn Carp Brochette
+206	Thyme
+207	Lemon
+208	Curry Paste
+209	Steamed Rice
+210	Butter
+211	Rainbow Trout
+212	Thyme
+213	Water
+214	Chicken Wing
+215	Emain Macha Wine
+216	Thyme
+217	Slice of Cheese
+218	Slice of Meat
+219	Potato
+220	Golden Scale Fish
+221	Taitinn Carp Brochette
+222	Red Pepper Powder
+223	Taitinn Carp Brochette
+224	Shrimp
+225	Emain Macha Wine
+226	Brifne Whiskey
+227	Lemon
+228	Ice
+229	Brifne Whiskey
+230	Lemon
+231	Orange Juice
+232	Leighean Gin
+233	Lemon Juice
+234	Sugar
+235	Brifne Whiskey
+236	Leighean Gin
+237	Ice
+238	Brifne Whiskey
+239	Lemon Juice
+240	Sugar
+241	Brifne Whiskey
+242	Orange Juice
+243	Sugar
+244	Orange (Part-Time Job)
+245	Berry (Part-Time Job)
+246	Sugar (Part-Time Job)
+247	Lemon (Part-Time Job)
+248	Berry (Part-Time Job)
+249	Sugar (Part-Time Job)
+250	Apple (Part-Time Job)
+251	Berry (Part-Time Job)
+252	Sugar (Part-Time Job)
+253	Sliced Bread (Part-Time Job)
+254	Slice of Meat (Part-Time Job)
+255	Slice of Cheese (Part-Time Job)
+256	Wheat Flour (Part-Time Job)
+257	Butter (Part-Time Job)
+258	Sugar (Part-Time Job)
+259	Wheat Flour (Part-Time Job)
+260	Chocolate (Part-Time Job)
+261	Yeast (Part-Time Job)
+262	Chicken Wing (Part-Time Job)
+263	Thyme (Part-Time Job)
+264	Salt (Part-Time Job)
+265	Golden Scale Fish (Part-Time Job)
+266	Taitinn Carp Brochette (Part-Time Job)
+267	Red Pepper Powder (Part-Time Job)
+268	Salt
+269	Sugar
+270	Pepper
+271	Salt
+272	Sugar
+273	Pepper
+274	Salt
+275	Sugar
+276	Pepper
+277	Salt
+278	Sugar
+279	Pepper
+280	Salt
+281	Sugar
+282	Pepper
+283	Salt
+284	Sugar
+285	Pepper
+286	Salt
+287	Sugar
+288	Pepper
+289	Salt
+290	Sugar
+291	Pepper
+292	Salt
+293	Sugar
+294	Pepper
+295	Salt
+296	Sugar
+297	Pepper
+298	Egg
+299	Salt
+300	Sugar
+301	Pepper
+302	Salt
+303	Sugar
+304	Pepper
+305	Salt
+306	Sugar
+307	Pepper
+308	Salt
+309	Sugar
+310	Pepper
+311	Salt
+312	Sugar
+313	Pepper
+314	Salt
+315	Sugar
+316	Pepper
+317	Salt
+318	Sugar
+319	Pepper
+320	Salt
+321	Sugar
+322	Pepper
+323	Salt
+324	Sugar
+325	Pepper
+326	Salt
+327	Sugar
+328	Pepper
+329	Salt
+330	Sugar
+331	Pepper
+332	Salt
+333	Sugar
+334	Pepper
+335	Pepper
+336	Butter
+337	Pepper
+338	Salt
+339	Salt
+340	Pepper
+341	Pepper
+342	Onion
+343	Sugar
+344	Thyme
+345	Water
+346	Thyme
+347	Shrimp Dog Food
+348	Dog Biscuit
+349	Bacon and Potato Dog Food
+350	Mixed vegetables
+351	Omelet
+352	Corn Scone
+353	Cornbread
+354	Steamed Corn
+355	Cornbread Dough
+356	Shark Fin Soup
+357	Consomme
+358	Chicken Noodle Consomme
+359	Corn Soup
+360	Somen Noodles
+361	Noodle
+362	Fried Onion
+363	Seafood Yakisoba
+364	Corn Chip
+365	Mixed Fried Rice
+366	Mushroom Fried Rice
+367	Popcorn
+368	Grilled Shellfish
+369	Grilled Silk-Striped Marlin
+370	Holiday Cake
+371	Striped Marlin Steak
+372	Fried Eggplants
+373	Flying Fish Crepe
+374	King Crab
+375	Ray Gill Filet
+376	Jellyfish Salad
+377	Angler Fish
+378	Baked Bean
+379	Water-Soaked Bean
+380	Mashed Tofu
+381	Magic Bean Tofu
+382	Mushroom Potage
+383	Mushroom Consomme
+384	Mushroom Cappuccino Soup
+385	Mushroom Canape
+386	Poisonous Mushroom Stew
+387	Mushroom Gratin
+388	Mushroom Marinade
+389	Steamed Mushroom
+390	Tomato Sauce
+391	Cream Sauce
+392	Seafood Sauce
+393	Pasta Dough
+394	Long Pasta
+395	Short Pasta
+396	Tomato Spaghetti
+397	Cream Farfalle
+398	Seafood Spaghetti
+399	Basil Tea
+400	Lemon Tea
+401	Steamed Milk
+402	Hot Chocolate
+403	Barley Tea
+404	Thyme Tea
+405	Vegetable Canape
+406	Tomato Basil Salad
+407	Herb Mushroom Salad
+408	Corn Tea
+409	Filia Cookie Set
+410	Lutra Cocktail Set
+411	Nares Cake Set
+412	Mushroom Cookie
+413	Coconut Cookie
+414	Coconut Pound Cake
+415	Coconut Crab Soup
+416	Turkey
+417	Pine Nut Soup
+418	Sturgeon Steak
+419	Caviar Canape
+420	Egg Caviar
+421	Vales Fire
+422	Seasons Smelt
+423	Fried Smelt
+424	Grilled Eel
+425	Juniper Jelly
+426	Camellia Sling
+427	Crunchy Mushroom Cookie
+428	Tear Noodles
+429	Crazy Chocolate Ball
+430	Show-off Steak
+431	Gateau Au Chocolat
+432	Friendship Shrimp Fried Rice
+433	Roasted Coffee
+434	Espresso
+435	Espresso Macchiato
+436	Cappuccino
+437	Macchiato
+438	Cafe Mocha
+439	Iced Cafe Mocha
+440	Iced Macchiato
+441	Rice Cakes
+442	Fried Abb Neagh Carp
+443	Corned Abb Neagh Carp and Vegetables
+444	Abb Neagh Carp Stew
+445	Braised Catfish and Clams
+446	Grilled Catfish
+447	Catfish Garden Salad
+448	Salt Grilled Sweetfish
+449	Seafood Paste
+450	Golden Mushroom
+451	Grilled Corn
+452	Assorted Fried Fish Dish
+453	Pickled Celery
+454	Garlic Cheese Roasted Mushroom
+455	Meat Pie
+456	Mixed Vegetables
+457	Bacon Wrapped Tuna
+458	Tako Sushi
+459	Onion Fried Tuna
+460	Ebi Sushi
+461	Curry-Roasted Red Sea Bream
+462	Salmon Salad
+463	Slivervine and Snapper
+464	Silvervine Tea
+465	Pumpkin Jam
+466	Strawberry Jam
+467	Peanut Butter Jam
+468	Apple Jam
+469	Grape Jam
+470	Toast
+471	Club Sandwich
+472	Tart Crust
+473	Pan Pie Crust
+474	Pumpkin Tart
+475	Egg Tart
+476	Apple Pie
+477	Pecan Pie
+478	Lemonade
+479	Mana Herb Garlic Steak
+480	Shrimp Bruschetta
+481	Pasta Marinara
+482	Granita
